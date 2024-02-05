@@ -4,5 +4,6 @@
       "path": "/api/every-day",
       "schedule": "0 0 * * *"
     }
-  ]
+  ],
+   "regions": ["cle1"]
 }
